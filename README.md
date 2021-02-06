@@ -12,13 +12,35 @@ _Nadeem to Sibley, no run, comes down the track and pushes it towards short cove
 _
 ## Framework
 
-1.Flask
-2.Bootle
+ 1.Flask
+
+ 2.Bootle
 
 
 [sacet](http://www.sacet.ac.in)
+
 
 sno | Name | college
 ----|------|--------
 1 | gmk | st anns
 2 | kk | st anns
+___
+
+:smiley:
+__
+
+:pray:
+
+___
+
+how to initialize github
+- [] git add .
+- [x] g it init
+- [] git remote
+- [] git clone
+
+## orderlists
+1. item1
+2. item2
+ * list1
+ * list2
